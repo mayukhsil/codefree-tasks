@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091351467339",
+    "project_id": "codefree-99338",
+    "storage_bucket": "codefree-99338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091351467339:android:2e15155305c331efe0c4ce",
+        "android_client_info": {
+          "package_name": "com.mayukh.codefree_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091351467339-lsjqgem8ad1jkd0mi2b8r90vdv94rubv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8Qff-0DHfItPUjiz8FjFfMcVPb3OdaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091351467339-lsjqgem8ad1jkd0mi2b8r90vdv94rubv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
